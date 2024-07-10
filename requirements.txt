@@ -1,0 +1,15 @@
+scipy
+numpy 
+scikit-learn
+robust_laplacian
+potpourri3d
+open3d
+hashlib
+trimesh
+roma
+yaml
+keops
+logging
+vtk
+ipygany
+tqdm

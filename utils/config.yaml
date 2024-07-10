@@ -1,0 +1,3 @@
+data_nicolas: "/home/emerypierson/Documents/datasets/ForNicolas"
+ssh: False
+template_path: "data/template.ply"
