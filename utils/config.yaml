@@ -1,3 +1,2 @@
-data_nicolas: "/home/emerypierson/Documents/datasets/ForNicolas"
-ssh: False
-template_path: "data/template.ply"
+data_nicolas: "/home/emerypierson/Documents/datasets/ForNicolas" ## Change it to put your own dataset path
+ssh: False ## Not necessary for the moment

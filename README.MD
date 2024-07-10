@@ -8,3 +8,4 @@ Configure conda environment.
     conda install -c conda-forge meshplot
     pip install -r requirements.txt 
 
+Change path in config.yml
